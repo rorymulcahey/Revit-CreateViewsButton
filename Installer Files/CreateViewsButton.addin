@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application CreateViewsButton</Name>
+    <Assembly>CreateViewsButton.dll</Assembly>
+    <FullClassName>CreateViewsButton.App</FullClassName>
+    <ClientId>4289ca09-ae27-40dd-a831-fbdc7959832b</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>Rory Mulcahey, rory.mulcahey@vanagetcg.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

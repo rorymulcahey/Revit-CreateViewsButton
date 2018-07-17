@@ -1,0 +1,5 @@
+C:\Users\rorymulcahey\source\repos\CreateViewsButton\CreateViewsButton\bin\Debug\CreateViewsButton.dll
+C:\Users\rorymulcahey\source\repos\CreateViewsButton\CreateViewsButton\bin\Debug\CreateViewsButton.pdb
+C:\Users\rorymulcahey\source\repos\CreateViewsButton\CreateViewsButton\obj\Debug\CreateViewsButton.csproj.CoreCompileInputs.cache
+C:\Users\rorymulcahey\source\repos\CreateViewsButton\CreateViewsButton\obj\Debug\CreateViewsButton.dll
+C:\Users\rorymulcahey\source\repos\CreateViewsButton\CreateViewsButton\obj\Debug\CreateViewsButton.pdb
